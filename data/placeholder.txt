@@ -1,1 +1,0 @@
-Placeholder for genomic sequence files. To be replaced with FASTA files.
